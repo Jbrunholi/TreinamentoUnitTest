@@ -1,0 +1,12 @@
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\bin\Debug\net5.0\BancoJBN.deps.json
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\bin\Debug\net5.0\BancoJBN.dll
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\bin\Debug\net5.0\ref\BancoJBN.dll
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\bin\Debug\net5.0\BancoJBN.pdb
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.csproj.AssemblyReference.cache
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.AssemblyInfoInputs.cache
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.AssemblyInfo.cs
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.csproj.CoreCompileInputs.cache
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.dll
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\ref\BancoJBN.dll
+C:\Users\jonat\TreinamentoUnitTest\BancoJBN\obj\Debug\net5.0\BancoJBN.pdb
